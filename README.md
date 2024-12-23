@@ -11,6 +11,9 @@ cd deployer-automate
 
 ***
 After done you can see in folder ./generated-script/your-deployment.sh
+Focus on Node.js (First) maybe in the future will be added for another language like Golang, Java, etc
+
+stay toon for the next update
 
 ***
 TODO :
